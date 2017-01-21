@@ -15,6 +15,6 @@ Objectives:
 
 For all the details take a look here: http://www.akellyirl.com/how-to-make-an-arduino-raspberry-pi-internet-radio/
 
-FILES:
-radio.py        : basic Python radio code
+FILES:<br>
+radio.py        : basic Python radio code<br>
 radio_jazzi.py  : Improved Python radio code
